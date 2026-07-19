@@ -1,0 +1,209 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:161B22,100:58A6FF&text=Abhishek&fontColor=F0F6FC&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20AI-powered%20SaaS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Abhishek profile header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=7EE787&center=true&vCenter=true&width=850&lines=Building+products+that+solve+real+problems;Django+%2B+Next.js+%2B+PostgreSQL;From+frontend+intern+to+project+manager;Open+to+meaningful+opportunities" alt="Animated introduction" />
+
+<br>
+
+<a href="https://idcare19.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-idcare19.me-0D1117?style=for-the-badge&logo=vercel&logoColor=7EE787" alt="Portfolio" />
+</a>
+<a href="https://github.com/idcare19">
+  <img src="https://img.shields.io/badge/GITHUB-idcare19-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/abhishekidcare19">
+  <img src="https://img.shields.io/badge/LINKEDIN-Abhishek-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+<img src="https://avatars.githubusercontent.com/u/214645699?v=4" width="170" alt="Abhishek profile photo" />
+
+### `abhishek@github:~$ whoami`
+
+**Full-Stack Developer · Backend Developer · Project Manager**
+
+I build SaaS platforms, scalable APIs, admin systems, automation tools, and polished full-stack web applications.
+
+</div>
+
+<br>
+
+## `abhishek@github:~$ cat about-me.txt`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔭 Currently working on</strong><br>
+      AI-powered SaaS platforms, Django backends, and full-stack web applications.
+    </td>
+    <td width="50%" valign="top">
+      <strong>👯 Looking to collaborate on</strong><br>
+      Open-source, SaaS, AI automation, and developer-tool projects.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🤝 Looking for help with</strong><br>
+      Advanced system architecture, scalable backend design, and AI/ML integration.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🌱 Currently learning</strong><br>
+      DSA, AI/ML, system design, Docker, and German.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>💬 Ask me about</strong><br>
+      Django, DRF, Next.js, REST APIs, PostgreSQL, and project management.
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚡ Fun fact</strong><br>
+      I started as a frontend intern and now manage projects while building full-stack products.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `abhishek@github:~$ ls featured-projects/`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/idcare19/smartqueue-ai">SmartQueue AI</a></h3>
+      <p>Queue-management SaaS with role-based dashboards, real-time operations, analytics, and AI-assisted wait-time prediction.</p>
+      <code>Next.js</code> <code>Django REST</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/idcare19/VisionSuite-MVP">VisionSuite MVP</a></h3>
+      <p>Computer-vision platform for face-recognition attendance and object-detection workflows.</p>
+      <code>FastAPI</code> <code>OpenCV</code> <code>Next.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/idcare19/ClientScout-AI">ClientScout AI</a></h3>
+      <p>Lead-intelligence workspace with verification, duplicate detection, outreach drafting, and follow-up management.</p>
+      <code>Next.js</code> <code>Appwrite</code> <code>Automation</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/idcare19/devvault">DevVault</a></h3>
+      <p>Developer project vault with secure authentication, owner-scoped data, search, and export workflows.</p>
+      <code>Django REST</code> <code>JWT</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/idcare19/ReqFlow-AI">ReqFlow AI</a></h3>
+      <p>Administrative workflow platform with secure authentication and structured request handling.</p>
+      <code>Django</code> <code>RBAC</code> <code>Render</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/idcare19/linkpilot">LinkPilot</a></h3>
+      <p>Link-management and analytics project built around a clean Django architecture.</p>
+      <code>Django</code> <code>Analytics</code> <code>REST</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `abhishek@github:~$ ./tech-stack.sh`
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML and CSS" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,vite&theme=dark" alt="Next.js, React, Tailwind CSS, Bootstrap and Vite" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express&theme=dark" alt="Django, FastAPI, Node.js and Express" />
+</p>
+
+### Databases & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,firebase,supabase&theme=dark" alt="PostgreSQL, MongoDB, MySQL, Redis, SQLite, Firebase and Supabase" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,cloudflare,figma&theme=dark" alt="Git, GitHub, Docker, GitHub Actions, Vercel, Cloudflare and Figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-0D1117?style=flat-square&logo=django&logoColor=7EE787" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Appwrite-0D1117?style=flat-square&logo=appwrite&logoColor=FD366E" alt="Appwrite" />
+  <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=58A6FF" alt="Render" />
+  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=7EE787" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Gunicorn-0D1117?style=flat-square&logo=gunicorn&logoColor=7EE787" alt="Gunicorn" />
+</p>
+
+<br>
+
+## `abhishek@github:~$ ./github-stats.sh`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=idcare19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=7EE787&text_color=C9D1D9&rank_icon=github" alt="Abhishek's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idcare19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" alt="Most used languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=idcare19&hide_border=true&background=0D1117&ring=7EE787&fire=FF7B72&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak" />
+
+</div>
+
+<br>
+
+## `abhishek@github:~$ ./trophies.sh`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=idcare19&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies" />
+
+</div>
+
+<br>
+
+## `abhishek@github:~$ fortune`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+
+</div>
+
+<br>
+
+## `abhishek@github:~$ open-to-work`
+
+I’m open to opportunities where I can contribute to real products, strengthen backend architecture, build polished user experiences, and keep growing with an ambitious team.
+
+<div align="center">
+
+<a href="https://idcare19.me">
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7EE787?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="View portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/abhishekidcare19">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-58A6FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:161B22,100:58A6FF" width="100%" alt="Profile footer" />
+
+<sub>Built with Markdown, HTML, and a lot of curiosity.</sub>
+
+</div>
